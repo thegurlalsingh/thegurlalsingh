@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Deep Learning and NLP**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-liart-nine-35.vercel.app/](https://portfolio-liart-nine-35.vercel.app/)
-
 - 📫 How to reach me **singhgurlal1303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
