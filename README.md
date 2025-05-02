@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Emotion Classifier using BiLSTM, Transformer and NLP**
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **singhgurlal1303@gmail.com**
 
