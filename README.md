@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurlal Singh</h1>
 <h3 align="center">A passionate AI enthusiast and Next.JS Developer from India</h3>
 
-- 🔭 I’m currently working on **Hiring Assistant**
+- 🔭 I’m currently working on **Fashion AI**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
